@@ -1,0 +1,31 @@
+# Blender MTL File: 'None'
+# Material Count: 3
+
+newmtl None
+Ns 500
+Ka 0.8 0.8 0.8
+Kd 0.8 0.8 0.8
+Ks 0.8 0.8 0.8
+d 1
+illum 2
+
+newmtl metal
+Ns 524.826428
+Ka 1.000000 1.000000 1.000000
+Kd 0.391723 0.508590 0.800000
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
+map_Kd D:\\Users\\emre-\\Downloads\\Sci-Fi Textures Bundle\\Sci-Fi 1\\extra\\door2_inside_baked.bmp
+
+newmtl metal.001
+Ns 524.826428
+Ka 1.000000 1.000000 1.000000
+Kd 0.002634 0.002958 0.003642
+Ks 0.500000 0.500000 0.500000
+Ke 0.0 0.0 0.0
+Ni 1.450000
+d 1.000000
+illum 3
